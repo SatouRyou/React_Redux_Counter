@@ -6,6 +6,7 @@ import { createStore } from 'redux';
 
 const store = createStore(counter);
 
+// アプリの起点となる部分
 function render() {
   ReactDOM.render(
     <Counter

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+// Counterコンポーネントを記述
 export default class Counter extends Component {
   render() {
     const { value, onIncrement, onDecrement } = this.props;
