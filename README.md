@@ -1,7 +1,11 @@
 
 # React_Redux_Counter (react_redux_counter)
 
-> ...
+以下のサイトの写経プロジェクト
+コメントと、パッケージの説明を追加していくことで、
+理解を深めていくこと
+
+http://uraway.hatenablog.com/entry/2016/02/11/220000
 
 ## Running your project
 
